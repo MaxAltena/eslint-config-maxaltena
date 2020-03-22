@@ -1,6 +1,6 @@
 {
 	"name": "@maxaltena/eslint-config-maxaltena",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "ESLint and Prettier config ready to use in multiple projects",
 	"author": "Max Altena",
 	"license": "MIT",
