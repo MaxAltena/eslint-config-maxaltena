@@ -1,18 +1,13 @@
 # eslint-config-maxaltena
 
-[![npm version](https://badge.fury.io/js/eslint-config-maxaltena.svg)](https://badge.fury.io/js/eslint-config-maxaltena)
-[![GitHub license](https://img.shields.io/github/license/natterstefan/eslint-config-maxaltena.svg)](https://github.com/natterstefan/eslint-config-maxaltena/blob/master/LICENCE)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![npm version](https://img.shields.io/npm/v/@maxaltena/eslint-config-maxaltena)(https://www.npmjs.com/package/@maxaltena/eslint-config-maxaltena)]
+[![Watchers](https://img.shields.io/github/watchers/MaxAltena/eslint-config-maxaltena)](https://github.com/MaxAltena/eslint-config-maxaltena/watchers)
+[![Stars](https://img.shields.io/github/stars/MaxAltena/eslint-config-maxaltena)](https://github.com/MaxAltena/eslint-config-maxaltena/stargazers)
+[![Issues](https://img.shields.io/github/issues/MaxAltena/eslint-config-maxaltena)](https://github.com/MaxAltena/eslint-config-maxaltena/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/MaxAltena/eslint-config-maxaltena)](https://github.com/MaxAltena/eslint-config-maxaltena/pulls)
+[![Follow @MaxAltena](https://img.shields.io/github/followers/maxaltena?label=Follow&style=social)](https://github.com/MaxAltena)
 
-It lints your javascript projects with ease, based on the popular [javascript
-code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb).
-
-## Features
-
-- based on the the popular [javascript
-  code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
-- easy switchable to their smaller set of rules [eslint-config-airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
-- with prettier support, thanks to [eslint-plugin-prettier](prettier.io/docs/en/eslint.html#use-eslint-to-run-prettier)
+> Config for my JavaScript project to lint and prettify.
 
 ## Installation
 

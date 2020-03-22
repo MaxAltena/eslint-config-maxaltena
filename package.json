@@ -17,7 +17,7 @@
 	"homepage": "https://github.com/maxaltena/eslint-config-maxaltena",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/maxaltena/eslint-config-maxaltena"
+		"url": "git+https://github.com/maxaltena/eslint-config-maxaltena.git"
 	},
 	"main": "index.js",
 	"files": [
@@ -47,19 +47,13 @@
 		"eslint-plugin-import": "^2.20.1",
 		"eslint-plugin-prettier": "^3.1.2",
 		"husky": "^4.2.3",
-		"lint-staged": "^10.0.8",
 		"prettier": "2.0.1",
 		"standard-version": "^7.1.0"
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "lint-staged",
 			"prepare-commit-msg": "exec < /dev/tty && git cz --hook"
 		}
-	},
-	"lint-staged": {
-		"*": "npm run prettier:fix",
-		"*.{js,jsx}": "npm run eslint:fix"
 	},
 	"config": {
 		"commitizen": {
@@ -102,5 +96,6 @@
 				"hidden": true
 			}
 		]
-	}
+	},
+	"dependencies": {}
 }
