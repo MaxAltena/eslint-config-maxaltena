@@ -29,6 +29,7 @@ module.exports = {
 		"no-empty": "warn",
 		"no-constant-condition": "warn",
 		"no-func-assign": "warn",
+		"default-case": "error",
 		"sort-imports": "off",
 		"sort-keys": ["error", "asc", { caseSensitive: true, natural: true }],
 		"import/order": ["error", { "newlines-between": "always" }],
