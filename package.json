@@ -1,6 +1,6 @@
 {
 	"name": "@maxaltena/eslint-config-maxaltena",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "ESLint and Prettier config ready to use in multiple projects",
 	"keywords": [
 		"eslint",
@@ -50,7 +50,7 @@
 		"eslint-plugin-import": "^2.20.1",
 		"eslint-plugin-prettier": "^3.1.2",
 		"husky": "^4.2.3",
-		"prettier": "2.0.1",
+		"prettier": "2.0.2",
 		"standard-version": "^7.1.0"
 	},
 	"peerDependencies": {
@@ -59,7 +59,7 @@
 		"eslint-config-prettier": "^6.10.1",
 		"eslint-plugin-import": "^2.20.1",
 		"eslint-plugin-prettier": "^3.1.2",
-		"prettier": "^2.0.1"
+		"prettier": "^2.0.2"
 	},
 	"standard-version": {
 		"changelogHeader": "# @maxaltena/eslint-config-maxaltena Changelog\n\nAll notable changes to this project will be documented here. The format is based\non [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project\nadheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\n",

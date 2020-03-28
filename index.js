@@ -1,6 +1,11 @@
 module.exports = {
 	parser: "babel-eslint",
-	extends: ["eslint:recommended", "plugin:prettier/recommended"],
+	extends: [
+		"eslint:recommended",
+		"plugin:prettier/recommended",
+		"plugin:import/errors",
+		"plugin:import/warnings"
+	],
 	env: {
 		browser: true,
 		es6: true,
