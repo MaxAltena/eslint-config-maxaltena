@@ -5,7 +5,7 @@ module.exports = {
 		"plugin:prettier/recommended",
 		"plugin:import/errors",
 		"plugin:import/warnings",
-		"sort-key-fix"
+		"autofix"
 	],
 	env: {
 		browser: true,
@@ -38,8 +38,8 @@ module.exports = {
 		"default-case": "error",
 		"sort-imports": "off",
 		"sort-keys": ["warn", "asc", { caseSensitive: true, natural: true }],
-		"sort-keys-fix/sort-keys-fix": "warn",
 		"import/order": ["warn", { "newlines-between": "always" }],
+		"autofix/no-debugger": "error"
 	},
 	settings: {
 		react: {
