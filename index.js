@@ -4,7 +4,8 @@ module.exports = {
 		"eslint:recommended",
 		"plugin:prettier/recommended",
 		"plugin:import/errors",
-		"plugin:import/warnings"
+		"plugin:import/warnings",
+		"sort-key-fix"
 	],
 	env: {
 		browser: true,
@@ -36,8 +37,9 @@ module.exports = {
 		"no-func-assign": "warn",
 		"default-case": "error",
 		"sort-imports": "off",
-		"sort-keys": ["error", "asc", { caseSensitive: true, natural: true }],
-		"import/order": ["error", { "newlines-between": "always" }],
+		"sort-keys": ["warn", "asc", { caseSensitive: true, natural: true }],
+		"sort-keys-fix/sort-keys-fix": "warn",
+		"import/order": ["warn", { "newlines-between": "always" }],
 	},
 	settings: {
 		react: {
