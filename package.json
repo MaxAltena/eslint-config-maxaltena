@@ -26,10 +26,10 @@
 		"prettier.config.js"
 	],
 	"scripts": {
-		"release": "HUSKY_SKIP_HOOKS=1 standard-version",
-		"release-major": "HUSKY_SKIP_HOOKS=1 standard-version --release-as major",
-		"release-minor": "HUSKY_SKIP_HOOKS=1 standard-version --release-as minor",
-		"release-patch": "HUSKY_SKIP_HOOKS=1 standard-version --release-as patch"
+		"release": "standard-version",
+		"release-major": "standard-version --release-as major",
+		"release-minor": "standard-version --release-as minor",
+		"release-patch": "standard-version --release-as patch"
 	},
 	"husky": {
 		"hooks": {
