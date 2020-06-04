@@ -44,3 +44,49 @@ patch:
         patched: '2020-05-03T21:12:30.386Z'
     - cz-conventional-changelog > commitizen > cz-conventional-changelog > @commitlint/load > @commitlint/resolve-extends > lodash:
         patched: '2020-05-03T21:12:30.386Z'
+    - eslint > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - eslint-plugin-autofix > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - cz-conventional-changelog > @commitlint/load > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - cz-conventional-changelog > commitizen > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - eslint > inquirer > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - eslint > table > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-changelog-conventionalcommits > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - cz-conventional-changelog > @commitlint/load > @commitlint/resolve-extends > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - cz-conventional-changelog > commitizen > inquirer > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-changelog > conventional-changelog-conventionalcommits > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-recommended-bump > conventional-commits-parser > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > conventional-changelog-writer > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - standard-version > conventional-changelog > conventional-changelog-core > conventional-commits-parser > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2020-06-04T07:51:56.434Z'
